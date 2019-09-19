@@ -1,0 +1,9 @@
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\bin\Debug\netstandard2.0\GreetingLogic.deps.json
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\bin\Debug\netstandard2.0\GreetingLogic.dll
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\bin\Debug\netstandard2.0\GreetingLogic.pdb
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\obj\Debug\netstandard2.0\GreetingLogic.csprojAssemblyReference.cache
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\obj\Debug\netstandard2.0\GreetingLogic.csproj.CoreCompileInputs.cache
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\obj\Debug\netstandard2.0\GreetingLogic.AssemblyInfoInputs.cache
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\obj\Debug\netstandard2.0\GreetingLogic.AssemblyInfo.cs
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\obj\Debug\netstandard2.0\GreetingLogic.dll
+C:\Users\Aidas baranauskas\source\reposTest\HelloSolution\GreetingLogic\obj\Debug\netstandard2.0\GreetingLogic.pdb
